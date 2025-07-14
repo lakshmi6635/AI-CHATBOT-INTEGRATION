@@ -1,0 +1,13 @@
+﻿# Setup Documentation – Task 4
+
+1. Open the solution in Visual Studio.
+2. Navigate to: Views > Home > Index.cshtml
+3. This file contains Web Chat embed code using:
+   - Web Chat script (hosted by Microsoft)
+   - Public Direct Line secret: bN5h9d0eVoo.KjS3vwnFhCQ59a6T8hglVRmI-bHb1TfTqxtCz3KvziQ
+
+4. Run the project (F5) to launch the web app.
+5. The chatbot appears on the homepage.
+6. You can type messages to test the bot (Echo Bot).
+
+7. No Azure account or App ID is required.
