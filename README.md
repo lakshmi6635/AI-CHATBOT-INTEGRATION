@@ -28,3 +28,6 @@ This is an ASP.NET Core MVC web application that integrates a chatbot using Micr
 
 ## Notes
 This is a simulation using a public test bot. It fulfills the chatbot integration requirement for internship task submission.
+
+OUTPUT:
+<img width="1396" height="1482" alt="Image" src="https://github.com/user-attachments/assets/77b3609d-e5a8-49cf-a41e-6292e636b31b" />
