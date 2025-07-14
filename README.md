@@ -1,5 +1,17 @@
 ﻿# Internship Task 4 – AI Chatbot Integration
 
+#COMPANY: CODTECH IT SOLUTIONS
+
+#NAME:LAKSHMI M
+
+#INTERN ID:CT06DF947
+
+#DOMAIN:.NET
+
+#DURATION:6 WEEKS
+
+#MENTOR:NEELA SANTOSH
+
 ## Overview
 This is an ASP.NET Core MVC web application that integrates a chatbot using Microsoft's Bot Framework Web Chat. It connects to a public demo bot (Echo Bot) that simulates chatbot behavior.
 
